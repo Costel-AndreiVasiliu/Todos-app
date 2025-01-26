@@ -1,0 +1,13 @@
+laravel
+Balde /react
+View todos
+Add todo:
+remove todo
+edit todo
+UI
+tailwind css
+
+
+php artisan make:
+migration create_todos_table
+database/migrations
