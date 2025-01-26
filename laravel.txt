@@ -1,5 +1,5 @@
 laravel
-Balde /react
+Blade /react
 View todos
 Add todo:
 remove todo
